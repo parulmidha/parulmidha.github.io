@@ -8,7 +8,7 @@ categories: [Apple, iOS, New, Operating, System, Mobile, iPhone]
 
 <img src="http://media.idownloadblog.com/wp-content/uploads/2013/05/iOS-7-concept-Simply-Zesty.jpg" alt="iOS7" />
 
-Apple has just announced “the biggest change since the launch of the original iPhone” : <b>iOS 7</b>. The new interface is beautifully designed with a new layer of colors and icons. Transparency plays an important role here, along with gestures.<!-- more -->
+Apple has just announced “the biggest change since the launch of the original iPhone” : iOS 7. The new interface is beautifully designed with a new layer of colors and icons. Transparency plays an important role here, along with gestures. <!-- more -->
 
 Folders have pages, for multiple apps and the Game Center now does not have any green felt.
 
