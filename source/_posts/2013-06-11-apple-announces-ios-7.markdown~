@@ -4,5 +4,6 @@ title: "Apple Announces iOS 7"
 date: 2013-06-11 10:00
 comments: true
 categories: [Apple, iOS, New, Operating, System, Mobile, iPhone]
-content: "This is a test post"
 ---
+
+This is a test post. Please make it work.
