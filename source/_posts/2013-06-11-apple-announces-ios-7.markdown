@@ -16,6 +16,8 @@ Notification center has a today view and can be accessed from the lock screen. B
 
 Multitasking is available to all Apps now, allowing better battery life.
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/rT_OmTMwvZI?rel=0" frameborder="0" allowfullscreen></iframe>
+
 iOS now features Air Drop, allowing sharing of files through wifi just like on mac.  Select multiple people by tapping, “no need to run around the room bumping your phone” hah.
 
 The new features of Safari from Mac have been brought to the iOS, tabs reading lists, auto fill keychains and passwords.
