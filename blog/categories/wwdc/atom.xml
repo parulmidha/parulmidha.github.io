@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: WWDC | Parul Midha's Weblog]]></title>
+  <link href="http://parulmidha.github.io/blog/categories/wwdc/atom.xml" rel="self"/>
+  <link href="http://parulmidha.github.io/"/>
+  <updated>2013-06-12T11:12:18+05:30</updated>
+  <id>http://parulmidha.github.io/</id>
+  <author>
+    <name><![CDATA[Parul Midha]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[WWDC : iWork Introduced For iCloud]]></title>
+    <link href="http://parulmidha.github.io/blog/2013/06/11/wwdc-iwork-introduced-for-icloud/"/>
+    <updated>2013-06-11T10:39:00+05:30</updated>
+    <id>http://parulmidha.github.io/blog/2013/06/11/wwdc-iwork-introduced-for-icloud</id>
+    <content type="html"><![CDATA[<p><img src="http://i0.wp.com/igyaan.in/wp-content/uploads/2013/06/f1370887650.jpg" alt="iWork for iCloud" /></p>
+
+<p>At its WWDC event today, Apple introduced iWork for iClouds.</p>
+
+<p>Roger Rosner came up on stage to show off the new service. iWork is Pages, Numbers and Keynote. Most powerful productivity apps ever created for a mobile device. Awesome new releases of Mac and iOS iWork suites coming later this year. <!-- more --></p>
+
+<p>iWork for iCloud lets you create beautiful documents right in the browser on Mac or PC. iCloud homepage now has new iWork app icons. Work on Pages right in the browser.</p>
+
+<p><img src="http://i1.wp.com/igyaan.in/wp-content/uploads/2013/06/f1370887992.jpg" alt="iWork for iCloud" />
+He showed off editing a spreadsheet in Numbers, full Keynote editing and animations right in a browser window.</p>
+
+<p>IE, Chrome and Safari. iWork on all your devices — create a document on the Mac, edit on a PC, and present from the iPhone.</p>
+
+<p>You can check out the beta version at beta.icloud.com. Public beta coming with general release later this year.</p>
+]]></content>
+  </entry>
+  
+</feed>
