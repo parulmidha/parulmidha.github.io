@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: System | Parul Midha's Weblog]]></title>
-  <link href="http://parulmidha.github.io/blog/categories/system/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Postal | Parul Midha's Weblog]]></title>
+  <link href="http://parulmidha.github.io/blog/categories/postal/atom.xml" rel="self"/>
   <link href="http://parulmidha.github.io/"/>
   <updated>2013-06-18T15:04:16+05:30</updated>
   <id>http://parulmidha.github.io/</id>
@@ -47,36 +47,6 @@ The following datasets available on the Data Portal India can be used to develop
 We should not make the app confined to only information regarding Philatelic Bureaux and Philatelic Counters. Detailed information on types of stamps, also the materials available at Philatelic Bureaux and Philatelic Counters needs to be gathered.</p>
 
 <p>Information is available on the website on India Post (<a href="http://www.indiapost.gov.in/Philately.aspx">http://www.indiapost.gov.in/Philately.aspx</a>).</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apple Announces iOS 7]]></title>
-    <link href="http://parulmidha.github.io/blog/2013/06/11/apple-announces-ios-7/"/>
-    <updated>2013-06-11T10:00:00+05:30</updated>
-    <id>http://parulmidha.github.io/blog/2013/06/11/apple-announces-ios-7</id>
-    <content type="html"><![CDATA[<p><img src="http://media.idownloadblog.com/wp-content/uploads/2013/05/iOS-7-concept-Simply-Zesty.jpg" alt="iOS7" /></p>
-
-<p>Apple has just announced “the biggest change since the launch of the original iPhone” : iOS 7. The new interface is beautifully designed with a new layer of colors and icons. Transparency plays an important role here, along with gestures. <!-- more --></p>
-
-<p>Folders have pages, for multiple apps and the Game Center now does not have any green felt.</p>
-
-<p>Notification center has a today view and can be accessed from the lock screen. But the most awaited feature : control center has been made available , simply swipe from below and all your quick toggles are front and center even from the lock screen.</p>
-
-<p>Multitasking is available to all Apps now, allowing better battery life.</p>
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/rT_OmTMwvZI?rel=0" frameborder="0" allowfullscreen></iframe>
-
-
-<p>iOS now features Air Drop, allowing sharing of files through wifi just like on mac.  Select multiple people by tapping, “no need to run around the room bumping your phone” hah.</p>
-
-<p>The new features of Safari from Mac have been brought to the iOS, tabs reading lists, auto fill keychains and passwords.</p>
-
-<p>The new Camera allows square cropped photos with filters for apps like Instagram, along with new Photos app which features moments and collections for better organization of photos.</p>
-
-<p>Siri now has been updated to look great and do more functions, Siri also has a new voice in both male and female tones.</p>
-
-<p>Siri can now Increase Brightness and toggle functions.</p>
 ]]></content>
   </entry>
   
