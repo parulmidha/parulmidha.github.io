@@ -1,0 +1,33 @@
+---
+layout: post
+title: "New Project: My Philately World"
+date: 2013-06-18 14:24
+comments: true
+categories: [Postal, System, Philately]
+---
+
+<img class="philatelyleft" src="http://3.bp.blogspot.com/_PBptCf_xpnE/TJAfOMiYgvI/AAAAAAAAA-4/0OqmJTBQ0SM/s1600/stamp+collecting.jpg" alt="My Philately World" />
+
+We have started working on our new project. Actually, it's just a part of the total project. It's called 'My Philately World'. Various details of the project are given below. We are a group of four girls working on this together. Its time to rock. :D
+<!-- more -->
+Project Details:
+
+Background & Potential Uses :
+Philately is a delightful hobby and also a very stable investment for some. However, if you are neither fond of stamp collection nor an investor, than why stamps? Stamps are not just pictures on little pieces of papers. It symbolises historical events, people and places, hence it is also a mode of commemorating, celebrating and promoting national heritage and events. It’s an easy mode learning as much or as little about world or local history as you want. There are different types of stamps, such as commemorative and definitive stamps. Commemorative stamps are issued, as the name suggests, commemorating important events, prominent personalities in various fields, aspects of nature, beautiful or rare flora and fauna, environmental issues, agricultural activities, national/international issues, games etc. These stamps are only available at Philatelic Bureaux and counters or under the Philatelic Deposit Account Scheme. They are printed in limited quantities. Mint stamps are also available at Philatelic Bureaux and Counters in the designated post offices. This app would guide new stamp collectors begin their collection by giving tips to starting it, discussing different types of stamps they can buy, explaining how collectors can judge the condition of a stamp, giving clear tips on which stamp a collector should collect. Users would be able to locate the nearest Philatelic Bureaux and Counters and would also know about the materials available at the Philatelic Bureaux and counters. By using this app, new philatelists will be able to start their stamp collection with ease.
+
+Development of App:
+The following datasets available on the Data Portal India can be used to develop the app:
+
+* List of Philatelic bureaux
+http://data.gov.in/dataset/list-philatelic bureaux
+
+* List of Post offices having Philatelic Counters
+http://data.gov.in/dataset/list-post-offices-having-philatelic-counters
+
+Lists of Philatelic Counters and Philatelic bureaux are available. District-wise information on Pincode and Post Office is also available.
+
+Problem areas :
+We should not make the app confined to only information regarding Philatelic Bureaux and Philatelic Counters. Detailed information on types of stamps, also the materials available at Philatelic Bureaux and Philatelic Counters needs to be gathered.
+
+Information is available on the website on India Post (http://www.indiapost.gov.in/Philately.aspx).
+
